@@ -32,6 +32,14 @@ As próximas tecnologias e ferramentas que serão estudadas e implementadas no p
 
 ---
 
+## Ferramentas instaladas
+
+- Git
+- VS Code
+- Python
+
+---
+
 ## Observações
 
 A infraestrutura do projeto será evoluída gradualmente conforme o desenvolvimento da aplicação e o aprendizado da equipe.
